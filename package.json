@@ -1,0 +1,10 @@
+{
+  "name": "main-field",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "run.js",
+  "scripts": {
+    "start": "node --experimental-specifier-resolution=node run.js"
+  },
+  "license": "MIT"
+}

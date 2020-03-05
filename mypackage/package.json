@@ -1,0 +1,7 @@
+{
+  "name": "mypackage",
+  "type": "module",
+  "main": "Lib.js",
+  "version": "1.0.0",
+  "license": "MIT"
+}
